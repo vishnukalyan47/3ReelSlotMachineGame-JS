@@ -1,0 +1,22 @@
+{
+  "name": "3reelslotmachinegame-js",
+  "version": "1.0.0",
+  "description": "Three reel slot machine game",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnukalyan47/3ReelSlotMachineGame-JS.git"
+  },
+  "author": "Vishnu Kalyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnukalyan47/3ReelSlotMachineGame-JS/issues"
+  },
+  "homepage": "https://github.com/vishnukalyan47/3ReelSlotMachineGame-JS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

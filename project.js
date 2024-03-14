@@ -19,6 +19,10 @@ const deposit = () => {
   
 };
 
+const numberOfLines=()=>{
+  console.log("To be continued..");
+}
+
 const depoAmo = deposit();
 console.log(depoAmo);
 
