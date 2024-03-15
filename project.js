@@ -1,4 +1,4 @@
-const { log } = require("sync");
+// Removed some log module.
 
 const prompt = require("prompt-sync")();
 
