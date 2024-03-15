@@ -1,5 +1,3 @@
-// Removed some log module.
-
 const prompt = require("prompt-sync")();
 
 const deposit = () => {
